@@ -1,6 +1,3 @@
-/*
- * Copyright 2000 - 2008 24 Hour Fitness. All rights reserved.
- */
 package com.fitness.config;
 
 
@@ -15,7 +12,7 @@ import org.glassfish.jersey.server.spring.scope.RequestContextFilter;
 /**
  * MyApplication represents ...
  * 
- * @author <a href="mailto:hector.mendoza@24hourfit.com">hector.mendoza</a>
+ * @author hector.mendoza
  * @version $Id$
  * @since Apr 24, 2014
  * 

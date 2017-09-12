@@ -1,6 +1,3 @@
-/*
- * Copyright 2000 - 2008 24 Hour Fitness. All rights reserved.
- */
 package com.fitness.service;
 
 
@@ -16,7 +13,7 @@ import javax.ws.rs.Path;
 /**
  * ClubResource represents ...
  * 
- * @author <a href="mailto:hector.mendoza@24hourfit.com">hector.mendoza</a>
+ * @author hector.mendoza
  * @version $Id$
  * @since Apr 25, 2014
  * 

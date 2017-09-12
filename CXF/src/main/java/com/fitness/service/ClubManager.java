@@ -1,6 +1,3 @@
-/*
- * Copyright 2000 - 2008 24 Hour Fitness. All rights reserved.
- */
 package com.fitness.service;
 
 
